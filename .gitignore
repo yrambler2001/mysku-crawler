@@ -1,0 +1,11 @@
+node_modules/
+node_modules1/
+.env.production
+.env.stage
+build
+tmp
+.DS_Store
+.mongo/db/*
+.mongo/mongod.log
+!.mongo/db/.gitkeep 
+coverage
